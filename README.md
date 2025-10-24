@@ -4,7 +4,7 @@ A real-time computer vision application that uses MediaPipe and OpenCV to detect
 
 ![Knowing Monkey](src/monkey-knowing.jpg)
 
-##Features
+## Features
 
 - **Real-time hand gesture recognition** using MediaPipe
 - **Facial detection** and proximity tracking
@@ -17,14 +17,14 @@ A real-time computer vision application that uses MediaPipe and OpenCV to detect
 - **Dual-camera view** showing both the live camera feed and the reacting monkey
 - **Gesture-based interaction** with visual feedback
 
-##Technical Stack
+## Technical Stack
 
 - **Python 3.11**
 - **OpenCV** for computer vision
 - **MediaPipe** for hand and face detection
 - **NumPy** for mathematical operations
 
-##Prerequisites
+## Prerequisites
 
 - Python 3.11 or higher
 - Webcam/camera access
@@ -90,7 +90,7 @@ The system recognizes various hand gestures and facial interactions:
 | Hand below chin | 😎 Chill | Relaxed hand position below face |
 | Default | 🐒 Normal | Standard monkey state |
 
-##Project Structure
+## Project Structure
 
 ```
 Jasoos-Bandar/
@@ -105,7 +105,7 @@ Jasoos-Bandar/
 └── README.md              # This file
 ```
 
-##Customization
+## Customization
 
 You can customize the application by:
 
@@ -114,11 +114,11 @@ You can customize the application by:
 - **Modifying gesture recognition logic** in the `main.py` file
 - **Changing the display window size** and layout
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-##Acknowledgments
+## Acknowledgments
 
 - **MediaPipe** for providing excellent hand and face detection capabilities
 - **OpenCV** for computer vision tools
